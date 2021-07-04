@@ -1,0 +1,28 @@
+/***For stm32 MCU development***/
+
+[IDE ENV]
+1. stm32CubeIDE   www.st.com
+    1.1 Firmware package for dedicated chips
+2. Keil
+
+[Code review&Management]
+1.SourceInsight
+2.Git
+
+[Simulation]
+1.Cygwin
+
+[Communication]
+1.Putty
+2.Xshell
+3.Serial port assistant
+
+[Data analysis]
+1.Beyond Compare
+2.Notepad++
+3.UltraEdit
+4.Matlab
+
+[Drivers]
+1.Jlink&Stlink driver
+2.Usb to serial port driver(pl2302) for win10
