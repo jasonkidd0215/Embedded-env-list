@@ -21,6 +21,7 @@
 1.Beyond Compare
 2.Notepad++
 3.UltraEdit
+    1.1 refer to link https://blog.csdn.net/xiaomengzi_16/article/details/90203095
 4.Matlab
 
 [Drivers]
